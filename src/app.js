@@ -11,6 +11,7 @@ const euroDun = 11.2
 //euroDun = 11 bunu yapamıyoruz .
 console.log(euroDun)
 
+//arrayyy
 //array[]
 //PascalCasing ikiside büyük
 //camelCasing ilk harf büyük sonraki küçük
